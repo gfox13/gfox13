@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gfox13
-- 👀 I’m interested in ... learning all kinds of new things related to programming, but especially with mobile development
-- 🌱 I’m currently learning ... iOS development
+- 👀 I’m interested in ... learning all kinds of new things related to programming, but especially with mobile and game development
+- 🌱 I’m currently learning ... Unity and iOS development
 - 💞️ I’m looking to collaborate on ... nothing (yet)
 - 📫 How to reach me ... here!
 
